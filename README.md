@@ -1,5 +1,7 @@
 # Calculating Pi
 
+> written by AI
+
 ## Project Description
 
 This project implements a method to calculate the mathematical constant π (pi) using Python, based on geometric principles. By approximating the circumference of a circle using inscribed and circumscribed regular polygons, we can compute an approximate value of π. The project aims to demonstrate how to calculate π using simple mathematical principles and explore the relationship between calculation precision and performance.
